@@ -5,3 +5,12 @@
     margin: 0%;
     padding: 0%;
 }
+
+.zap{
+    background-image: url("zap_zap.png");
+    width: 90px;
+    height: 90px;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+}
