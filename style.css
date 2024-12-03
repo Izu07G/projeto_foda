@@ -6,11 +6,39 @@
     padding: 0%;
 }
 
+nav{
+    background-color: black;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    margin-right: 50px;
+}
+
+nav :hover{
+    background-color: rgba(64, 85, 204, 0.623);
+    border-radius: 7px;
+    padding: 7px;
+    transition: 0.5s;
+}
+
+#Gram{
+    text-align: center;
+    background-color: black;
+    color: beige;
+    border-radius: 5px;
+    text-shadow: 2px 2px 2px 10px;
+    
+}
+
 .zap{
-    background-image: url("zap_zap.png");
     width: 90px;
     height: 90px;
     position: fixed;
     right: 20px;
     bottom: 20px;
 }
+
