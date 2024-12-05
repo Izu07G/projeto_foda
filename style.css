@@ -8,30 +8,141 @@
 
 nav{
     background-color: black;
-    padding: 15px;
-    text-align: center;
+    text-align: left;
+    padding: 20px;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
 }
 
 nav a{
-    color: white;
     text-decoration: none;
-    margin-right: 50px;
+    padding: 15px;
+    color: rgb(245, 245, 243);
+    text-shadow: 5px 5px 5px 10px;
 }
 
-nav :hover{
-    background-color: rgba(64, 85, 204, 0.623);
-    border-radius: 7px;
+nav a:hover{
+    background-color: rgba(71, 46, 163, 0.747);
+    color: #fff;
+    border-radius: 5px;
     padding: 7px;
+    text-shadow: 2px 2px 2px 10px;
+    transform: translateY(3px);
     transition: 0.5s;
 }
 
+h1{
+    text-align: center;
+    text-shadow: 2px 2px 2px 10px;
+    color: black;
+}
+
 #Gram{
+    align-content: center;
     text-align: center;
     background-color: black;
     color: beige;
-    border-radius: 5px;
+    border-radius: 7px;
     text-shadow: 2px 2px 2px 10px;
-    
+    width: 500px;
+    margin: auto;
+    padding: 5px;
+}
+
+#Quiz{
+    align-content: center;
+    text-align: center;
+    background-color: black;
+    color: beige;
+    border-radius: 7px;
+    text-shadow: 2px 2px 2px 10px;
+    width: 500px;
+    margin: auto;
+    padding: 5px;
+}
+
+#Wolf{
+    align-content: center;
+    text-align: center;
+    background-color: black;
+    color: beige;
+    border-radius: 7px;
+    text-shadow: 2px 2px 2px 10px;
+    width: 500px;
+    margin: auto;
+    padding: 5px;
+}
+
+#Chat{
+    align-content: center;
+    text-align: center;
+    background-color: black;
+    color: beige;
+    border-radius: 7px;
+    text-shadow: 2px 2px 2px 10px;
+    width: 500px;
+    margin: auto;
+    padding: 5px;
+}
+
+#Map{
+    align-content: center;
+    text-align: center;
+    background-color: black;
+    color: beige;
+    border-radius: 7px;
+    text-shadow: 2px 2px 2px 10px;
+    width: 500px;
+    margin: auto;
+    padding: 5px;
+}
+
+#Duo{
+    align-content: center;
+    text-align: center;
+    background-color: black;
+    color: beige;
+    border-radius: 7px;
+    text-shadow: 2px 2px 2px 10px;
+    width: 500px;
+    margin: auto;
+    padding: 5px;
+}
+
+#Otter{
+    align-content: center;
+    text-align: center;
+    background-color: black;
+    color: beige;
+    border-radius: 7px;
+    text-shadow: 2px 2px 2px 10px;
+    width: 500px;
+    margin: auto;
+    padding: 5px;
+}
+
+#Mendeley{
+    align-content: center;
+    text-align: center;
+    background-color: black;
+    color: beige;
+    border-radius: 7px;
+    text-shadow: 2px 2px 2px 10px;
+    width: 500px;
+    margin: auto;
+    padding: 5px;
+}
+
+#Chat{
+    align-content: center;
+    text-align: center;
+    background-color: black;
+    color: beige;
+    border-radius: 7px;
+    text-shadow: 2px 2px 2px 10px;
+    width: 500px;
+    margin: auto;
+    padding: 5px;
 }
 
 .zap{
